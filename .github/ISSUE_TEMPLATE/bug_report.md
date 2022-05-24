@@ -18,5 +18,5 @@ A clear and concise description of what the bug is.
 5. Attach your 'Packages/manifest.json' file.
 6. Your AR device model and its OS version. Please make sure your AR device supports ARKit/ARCore and supports a feature you would like to test in the Editor.
 
-**Errors and stack traces**
-Add error stack traces from the Unity Editor and from the AR Companion if any. If the Editor is crashing, you can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
+**Errors, warnings, and stack traces**
+Add errors or warnings stack traces from the Unity Editor and from the AR Companion if any. If the Editor is crashing, you can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
