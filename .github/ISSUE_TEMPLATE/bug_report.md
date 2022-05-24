@@ -19,4 +19,5 @@ A clear and concise description of what the bug is.
 6. Your AR device model and its OS version. Please make sure your AR device supports ARKit/ARCore and supports a feature you would like to test in the Editor.
 
 **Errors, warnings, and stack traces**
-Add errors or warnings stack traces from the Unity Editor and from the AR Companion if any. If the Editor is crashing, you can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
+Add errors or warnings stack traces from the Unity Editor and from the AR Companion if any. Please send errors and warnings as text, not as screenshots (you can select all console out by pressing ctrl/cmd+a, then copy it by pressing ctrl/cmd+c).
+If the Editor is crashing, you can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
