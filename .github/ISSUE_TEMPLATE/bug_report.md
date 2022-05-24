@@ -17,4 +17,4 @@ A clear and concise description of what the bug is.
 4. Your AR device and its OS version.
 
 **Errors and stack traces**
-Add error stack traces from the Unity Editor and from the AR Companion if any. If the Editor is crashing, your can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
+Add error stack traces from the Unity Editor and from the AR Companion if any. If the Editor is crashing, you can find Unity Editor logs [here](https://docs.unity3d.com/Manual/LogFiles.html).
