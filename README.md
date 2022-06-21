@@ -5,4 +5,6 @@ Please submit **bug reports** [here](https://github.com/KirillKuzyk/AR-Foundatio
 
 Submit your **questions and feature requests** [here](https://github.com/KirillKuzyk/AR-Foundation-Remote-support/discussions).
 
+Join a **general discussion** on Unity Forums [thread](https://forum.unity.com/threads/ar-foundation-editor-remote-test-and-debug-your-ar-project-in-the-editor.898433).
+
 If you want to contact me privately, please drop me an **email**: kuzykkirill@gmail.com
