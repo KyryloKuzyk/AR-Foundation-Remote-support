@@ -11,6 +11,7 @@ using ARFoundationRemoteInput = ARFoundationRemote.Input;
 /// </summary>
 [RequireComponent(typeof(ARLocationProvider))]
 public class ARFoundationRemoteToARGpsBridge : MonoBehaviour {
+    #if UNITY_EDITOR
     ARLocationProvider locationProvider;
 
 
@@ -48,4 +49,5 @@ public class ARFoundationRemoteToARGpsBridge : MonoBehaviour {
         }
         mockLocationData.Location = new Location(data.latitude, data.longitude, data.altitude);
     }
+    #endif
 }
