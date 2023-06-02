@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a bug report
-title: "[BUG]"
-labels: bug
-assignees: KirillKuzyk
+title: ''
+labels: ''
+assignees: KyryloKuzyk
 
 ---
 
